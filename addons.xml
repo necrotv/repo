@@ -2,9 +2,9 @@
 <addons>
 <addon id="necrotv-repo" name="Necrotv-addons" version="1.4.0" provider-name="necrotv">
 	<extension point="xbmc.addon.repository" name="necrotv-addons-1.4.0">
-		<info compressed="false">tttp://necrotv.esy.es/guide/addons.xml</info>
-		<checksum>http://necrotv.esy.es/guide/addons.xml.md5</checksum>
-		<datadir zip="true">http://necrotv.esy.es/guide/zips</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/necrotv/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/necrotv/repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/necrotv/repo/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>necro TV Addons</summary>
